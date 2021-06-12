@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "aaa",
+        "a a",
+        "   "
+    ],
+    "key":
+    {
+        "a":
+        {
+            "item": "smep:sapphire_shard"
+        }
+    },
+    "result":
+    {
+        "item": "smep:sapphire_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "smep:sapphire"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "smep:sapphire_shard",
+        "count": 2
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " a ",
+        " b ",
+        "   "
+    ],
+    "key":
+    {
+        "a":
+        {
+            "item": "smep:sapphire_shard"
+        },
+		"b":
+		{
+			"item": "minecraft:gold_ingot"
+		}
+    },
+    "result":
+    {
+        "item": "smep:sapphire_ring",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " a ",
+        " a ",
+        " x "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:stick"
+        },
+        "a":
+        {
+            "item": "smep:sapphire_shard"
+        }
+    },
+    "result":
+    {
+        "item": "smep:sapphire_sword",
+        "count": 1
+    }
+}
