@@ -17,7 +17,8 @@ public class RegistryHandler {
 	
 	//items
 	public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire", ItemBase::new);
-	
+	public static final RegistryObject<Item> SAPPHHIRE_SHARD = ITEMS.register("sapphire_shard",ItemBase::new);
+	public static final RegistryObject<Item> SAPPHIRE_RING = ITEMS.register("sapphire_ring", ItemBase::new);
 	
 	public static void init()
 	{

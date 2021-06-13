@@ -1,0 +1,17 @@
+{
+  "itemGroup.modtab": "Sapphire Mod",
+  "item.smep.sapphire": "Sapphire",
+  "item.smep.sapphire_shard": "Sapphire Shard",
+  "item.smep.sapphire_ring": "Sapphire Ring",
+  "tile.smep.sapphire_block": "Sapphire Block",
+  "tile.smep.sapphire_ore": "Sapphire Ore",
+  "item.smep.sapphire_sword": "Sapphire Sword",
+  "item.smep.sapphire_axe": "Sapphire Axe",
+  "item.smep.sapphire_hoe": "Sapphire Hoe",
+  "item.smep.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.smep.sapphire_shovel": "Sapphire Shovel",
+  "item.smep.sapphire_helmet": "Sapphire Helmet",
+  "item.smep.sapphire_chestplate": "Sapphire Chestplate",
+  "item.smep.sapphire_legs": "Sapphire Leggings",
+  "item.smep.sapphire_boots": "Sapphire Boots"
+}
