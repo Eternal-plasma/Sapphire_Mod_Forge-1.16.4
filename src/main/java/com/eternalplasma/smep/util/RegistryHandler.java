@@ -12,7 +12,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class RegistryHandler {
 
-	private static final DeferredRegister  ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Main.MOD_ID);
+	private static final DeferredRegister<Item>  ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Main.MOD_ID);
 	
 	
 	//items
