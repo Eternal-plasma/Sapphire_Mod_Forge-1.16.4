@@ -1,3 +1,7 @@
+UPDATE: Devlopment paused until a more final mapping is released
+
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
